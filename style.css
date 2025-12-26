@@ -26,6 +26,7 @@ body{
     background-color: rgba(0, 0, 0, 0.701);
     color: white;
     outline: none;
+    
 }
 #keys{
     display: grid;
